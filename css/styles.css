@@ -1,3 +1,4 @@
+/* Из modern-normalize.css не сработал, пишу сюда */
 html {
     box-sizing: border-box;
 }
