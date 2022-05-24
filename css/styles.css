@@ -8,7 +8,7 @@ html {
     box-sizing: inherit;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4{
     margin: 0;
 }
 
@@ -88,9 +88,14 @@ img {
     padding-top: 94px;
     padding-bottom: 94px;
 }
-/* рамка внизу*/
+
 .header {
     border-bottom: 1px solid #ECECEC;
+}
+
+.container-nav {
+    display: flex;
+    align-items: center;
 }
 
 .navigation {
