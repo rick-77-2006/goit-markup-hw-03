@@ -8,7 +8,7 @@ html {
     box-sizing: inherit;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
     margin: 0;
 }
 
@@ -91,11 +91,6 @@ img {
 
 .header {
     border-bottom: 1px solid #ECECEC;
-}
-
-.container-nav {
-    display: flex;
-    align-items: center;
 }
 
 .navigation {
@@ -441,13 +436,13 @@ img {
     flex-wrap: wrap;
 }
 
-.services-buttom-item {
+.services-button-item {
     margin-right: 8px;
     align-items: center;
     border-color: none;
 }
 
-.services-buttom-item:last-child {
+.services-button-item:last-child {
     margin: 0;
 }
 
