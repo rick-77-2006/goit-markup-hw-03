@@ -279,7 +279,7 @@ img {
 .works-item {
     margin-right: var(--list-right-margin);
 }
-
+/* Проверить */
 .works-item:last-child {
     margin-right: 0;
 }
